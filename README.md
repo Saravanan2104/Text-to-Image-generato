@@ -1,5 +1,7 @@
 # 🎨 Text-to-Image Generator
 
+## Live Link : https://huggingface.co/spaces/Saravana21/text-to-image-generator
+
 **Created by Saravanan R**
 
 A free and open-source **Text-to-Image Generative AI application** that converts natural language prompts into images using **Stable Diffusion**.  
