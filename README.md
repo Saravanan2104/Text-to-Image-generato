@@ -3,7 +3,7 @@
 ## Live Link : https://huggingface.co/spaces/Saravana21/text-to-image-generator
 
 **Created by Saravanan R**
-## portfolio: https://agentic-learner-showcase.lovable.app
+## portfolio: https://saravanan-ai-developer.lovable.app
 
 A free and open-source **Text-to-Image Generative AI application** that converts natural language prompts into images using **Stable Diffusion**.  
 This project is built with **PyTorch**, **Diffusers**, **Transformers**, and **Gradio**, and can be run locally or deployed on Hugging Face Spaces.
